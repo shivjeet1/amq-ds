@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/amq_benchmark.dir/link.d CMakeFiles/amq_benchmark.dir/main.cpp.o -o amq_benchmark
