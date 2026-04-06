@@ -1,0 +1,3 @@
+/home/shiv/Templates/AMQ/build/CMakeFiles/amq_benchmark.dir
+/home/shiv/Templates/AMQ/build/CMakeFiles/edit_cache.dir
+/home/shiv/Templates/AMQ/build/CMakeFiles/rebuild_cache.dir

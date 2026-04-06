@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/shiv/Templates/AMQ/build",
+  "command": "/usr/bin/c++  -I/home/shiv/Templates/AMQ -O3 -DNDEBUG -std=gnu++17 -Wall -Wextra -Wpedantic -O3 -o CMakeFiles/amq_benchmark.dir/main.cpp.o -c /home/shiv/Templates/AMQ/main.cpp",
+  "file": "/home/shiv/Templates/AMQ/main.cpp",
+  "output": "CMakeFiles/amq_benchmark.dir/main.cpp.o"
+}
+]
